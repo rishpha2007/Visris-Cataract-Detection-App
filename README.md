@@ -48,7 +48,11 @@ https://www.linkedin.com/in/rishpha-a
 ✅ Completed and Functional
 
 ###screenshots 
-Results....
+Home Screen 
+
+Screenshot_20260510-232449.visris_new.png
+
+Results Screen 
 
 Screenshot_20260508-220637.visris_new.png
 
