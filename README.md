@@ -47,6 +47,13 @@ https://www.linkedin.com/in/rishpha-a
 
 ✅ Completed and Functional
 
-(Project screenshots will be uploaded soon)
+###screenshots 
+Results....
+
+Screenshot_20260508-220637.visris_new.png
+
+Screenshot_20260508-204254.visris_new.png
+
+
 
 
